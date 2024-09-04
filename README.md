@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### :man_technologist: About Me :
+### :man_technologist
 - 👋 Hi, I’m Muhammad Ilham
 
 - ✨ I’m passionate about Web Development and Software Quality Assurance
