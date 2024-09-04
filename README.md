@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 ### :man_technologist: About Me :
-- :Wave: Hi, I’m Muhammad Ilham
+- Wave: Hi, I’m Muhammad Ilham
 
-- :Light Bulb: I’m passionate about Web Development and Software Quality Assurance
+- Light Bulb: I’m passionate about Web Development and Software Quality Assurance
 
-- :Books: I'm currently diving into JavaScript, NodeJS, Python
+- Books: I'm currently diving into JavaScript, NodeJS, Python
 
-- :Handshake: I'm open to collaborating on web projects
+- Handshake: I'm open to collaborating on web projects
   
-- :Email: You can reach me at mhmmdilhamriza03@gmail.com
+- Email: You can reach me at mhmmdilhamriza03@gmail.com
   
 <!--
 **MuhammadIlham202310021/MuhammadIlham202310021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
