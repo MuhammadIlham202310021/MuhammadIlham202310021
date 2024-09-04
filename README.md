@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 ### :man_technologist: About Me :
-- :Waving Hand: Hi, I’m Muhammad Ilham
+- 👋 Hi, I’m Muhammad Ilham
 
-- :Light Bulb: I’m passionate about Web Development and Software Quality Assurance
+- ✨ I’m passionate about Web Development and Software Quality Assurance
 
-- :Books: I'm currently diving into JavaScript, NodeJS, Python
+- 📖 I'm currently diving into JavaScript, NodeJS, Python
 
-- :Handshake: I'm open to collaborating on web projects
+- 🤝 I'm open to collaborating on web projects
   
 - 📧 You can reach me at mhmmdilhamriza03@gmail.com
   
